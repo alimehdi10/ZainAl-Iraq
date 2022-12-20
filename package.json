@@ -1,0 +1,32 @@
+{
+  "name": "tunis",
+  "version": "0.1.0",
+  "homepage": "http://zainal-iraq.com",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.9.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.2",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.2",
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-animated-cursor": "^2.5.2",
+    "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
+    "react-slick": "^0.29.0",
+    "react-tabs": "^5.1.0",
+    "react-toastify": "^9.1.1",
+    "sass": "^1.56.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}
